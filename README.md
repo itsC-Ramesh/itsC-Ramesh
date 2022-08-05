@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsC-Ramesh
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning .Net Technologies
+- 👋 Hi, I’m Ramesh Choudhary
+- 👀 I’m dot Net Developer
+- 🌱 I’m currently learning Blockchain Development
 - 📫 How to reach me >> itsC.Ramesh@gmail.com || +91 8888722484
 
 <!---
