@@ -1,16 +1,22 @@
-### 👋 Hi there! I’m a Senior .NET Full Stack Developer with 4+ years of experience building high-performance, scalable software solutions. 
+### Tech-driven engineer building everything from cloud-native backends to agentic AI systems.
 
-### 🚀 **Backend Expertise**  
-I specialize in the .NET ecosystem, including **.NET Core (.NET 6+)** and **.NET Framework**. My work primarily focuses on developing robust backend systems using modern architectures like **Microservices**, **Clean Architecture**, and **N-Tier**.
+### 🤖 Agentic AI
+Currently deep into building multi-agent systems using **OpenAI Agents SDK**, **Google ADK**, **LangChain**, and **Agno** — working with **RAG pipelines**, **MCP-connected tooling**, and **FastAPI** backends. Focused on what actually holds up in production, not just in demos.
 
-### 🌐 **Frontend Development**  
-I’m proficient in **Angular**, **Razor Pages**, and **Blazor**, crafting intuitive and responsive user interfaces using modern design libraries like Bootstrap and Angular Material.
+### ☁️ Cloud & DevOps
+Deploying and managing solutions on **AWS** (S3, Lambda, SQS) and **Azure**, with hands-on **Docker**, **CI/CD pipelines**, and **Azure DevOps**. Messaging systems like **RabbitMQ** and **AWS SQS** are everyday tools.
 
-### 📱 **Mobile Development**  
-I build cross-platform mobile applications with **Xamarin** and **.NET MAUI**, ensuring a seamless experience across devices.
+### ⚙️ Backend
+Deep in the **.NET ecosystem** — **.NET Core (.NET 6+)** and **.NET Framework** — building robust systems with **Microservices**, **Clean Architecture**, and **N-Tier** design. Also working extensively with **Python**, **FastAPI**, and **Django**.
 
-### ☁️ **Cloud & DevOps**  
-Experienced in deploying and managing cloud solutions on **AWS** and **Azure**, I integrate services like **S3**, **Lambda**, and **SQS** to deliver cloud-native applications. I also have hands-on experience with **DevOps** practices using **Azure DevOps** and **Docker**, and manage messaging queues like **RabbitMQ** and **AWS SQS**.
+### 🗄️ Databases
+Comfortable across relational and non-relational — **SQL Server**, **MySQL**, **MariaDB**, **PostgreSQL**, and **AWS DynamoDB**.
 
-### 🔌 **Automation & IoT**  
-From automating workflows with **Power Platform** to developing IoT solutions using **Raspberry Pi**, I’m passionate about leveraging technology to solve real-world problems.
+### 🌐 Frontend
+Proficient in **Angular** and **React**, building dynamic, responsive interfaces.
+
+### 📱 Mobile
+Cross-platform mobile apps with **Xamarin** and **.NET MAUI**.
+
+### 🔌 Automation & IoT
+Workflow automation with **Power Platform** and IoT solutions with **Raspberry Pi**.
